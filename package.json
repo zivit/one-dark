@@ -2,7 +2,7 @@
     "name": "one-dark-z",
     "displayName": "One Dark Z",
     "description": "Theme inspired by Atom One Dark theme",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "zivit",
     "engines": {
         "vscode": "^1.69.0"
