@@ -17,5 +17,6 @@
                 "path": "./themes/One Dark Z-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": { "url": "https://github.com/zivit/one-dark-z" }
 }
