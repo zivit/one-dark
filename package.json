@@ -1,0 +1,21 @@
+{
+    "name": "one-dark-z",
+    "displayName": "One Dark Z",
+    "description": "Theme inspired by Atom One Dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Dark Z",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Dark Z-color-theme.json"
+            }
+        ]
+    }
+}
