@@ -2,4 +2,4 @@
 
 VSCode Theme based on Atom's One Dark theme.
 
-![image](images/one-dark-z.png)
+![images/one-dark-z.png](https://github.com/zivit/one-dark-z/blob/main/images/one-dark-z.png)
