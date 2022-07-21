@@ -3,6 +3,7 @@
     "displayName": "One Dark Z",
     "description": "Theme inspired by Atom One Dark theme",
     "version": "0.0.1",
+    "publisher": "zivit",
     "engines": {
         "vscode": "^1.69.0"
     },
