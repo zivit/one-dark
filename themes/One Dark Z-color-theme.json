@@ -740,7 +740,7 @@
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#c678dd"
 			}
 		},
 		{
@@ -850,7 +850,7 @@
 		{
 			"scope": "punctuation.definition.list.begin.markdown",
 			"settings": {
-				"foreground": "#6796E6"
+				"foreground": "#569CD6"
 			}
 		},
 		{
@@ -993,7 +993,7 @@
 				"keyword.operator.cast",
 				"keyword.operator.sizeof",
 				"keyword.operator.instanceof",
-				"keyword.operator.logical.python"
+				"keyword.operator.logical.python",
 			],
 			"settings": {
 				"foreground": "#C678DD"
@@ -1039,7 +1039,7 @@
 		{
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#C678DD"
 			}
 		},
 		{
