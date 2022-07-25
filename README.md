@@ -1,4 +1,4 @@
-# One Dark Z
+# One Dark
 
 VSCode Theme based on Atom's One Dark theme.
 
