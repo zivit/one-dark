@@ -1,8 +1,8 @@
 {
-    "name": "one-dark-z",
-    "displayName": "One Dark Z",
+    "name": "one-dark",
+    "displayName": "One Dark",
     "description": "Theme inspired by Atom One Dark theme",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "publisher": "zivit",
     "icon": "images/icon.png",
     "engines": {
@@ -14,9 +14,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "One Dark Z",
+                "label": "One Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/One Dark Z-color-theme.json"
+                "path": "./themes/One-Dark-color-theme.json"
             }
         ]
     },
